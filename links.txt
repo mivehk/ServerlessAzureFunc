@@ -1,0 +1,5 @@
+https://app-sf02.azurewebsites.net/api/HttpTrigger1?code=2jfFEa0aNGrhLakqWtW38vDv2jORYrTailG6LTpRE0lpAzFu5KEUIA%3D%3D&name=HiringManager
+
+
+
+http://localhost:7071/api/HttpTrigger1?name=alice
